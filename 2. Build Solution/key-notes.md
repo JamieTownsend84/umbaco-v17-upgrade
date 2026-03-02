@@ -39,3 +39,15 @@ If you have generated models and have build issues you can fix this by doing the
 Replace `IPublishedSnapshotAccessor` with `IPublishedContentTypeCache`
 
 Replace `publishedSnapshotAccessor` with `contentTypeCache`
+
+## Umbraco.Cms.Web.BackOffice
+
+This has been removed, any NuGet package references to it will need to be removed.
+
+## Umbraco.GetDictionaryValue
+
+This has been removed, update your code to use
+
+```cs
+Umbraco.GetDictionaryValueOrDefault("REF", "Fallback");
+```
