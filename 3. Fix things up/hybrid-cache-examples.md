@@ -1,4 +1,4 @@
-## Hyrbid Cache - Always cache content types
+## Hybrid Cache - Always cache content types
 
 ```json
 "Umbraco": {
@@ -81,7 +81,7 @@ You'll notice the addition of:
 
 `INavigationQueryService` and `IPublishedStatusFilteringService`
 
-In this instance we want to query content so we've used `IDocumentNavigationQueryService` but if we wanted to deal with media we can use `IMediaNavigationQueryService`
+In this instance we want to query content so we've used `IDocumentNavigationQueryService` but if we wanted to deal with media, we can use `IMediaNavigationQueryService`
 
 `INavigationQueryService` - owns the tree structure, who is the parent of what, what are the children of a given node, descendants etc. But it only deals in GUIDs, not full content objects which makes it pretty efficient. 
 
