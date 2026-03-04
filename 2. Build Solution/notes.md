@@ -6,6 +6,8 @@ Now we have a plan, I recommend next getting the project building. There will mo
 
 As part of the getting started, update the packages to versions compatible with Umbraco 17 and .NET 10. Any gaps, I recommend getting the project building first and working through each in isolation.
 
+### Razor runtime compilation
+
 One noted potential breaking change is the removing of `Razor runtime compilation` and the Models Builder mode `InMemoryAuto` moved to its own NuGet package. If you use or want to use either of these features you need to install this package `Umbraco.Cms.DevelopmentMode.Backoffice`
 https://www.nuget.org/packages/Umbraco.Cms.DevelopmentMode.Backoffice/
 
