@@ -34,7 +34,7 @@ inner join umbracoNode un on un.id = udt.nodeId
 where udt.propertyEditorAlias = 'Umbraco.MultiNodeTreePicker'
 ```
 
-#### Example One
+#### Example
 
 Previous:
 

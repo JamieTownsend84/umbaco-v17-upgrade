@@ -5,5 +5,5 @@ With Umbraco 17 now the current Long-Term Support release, many organisations ar
 ---
 
 ### Jamie Townsend
-Principal Full Stack Engineer \
+Principal Full-Stack Engineer \
 jamie.townsend@shoutdigital.com

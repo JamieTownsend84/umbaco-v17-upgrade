@@ -1,0 +1,7 @@
+## XPATH
+
+We've known about the removal of `XPATH` for a while now, so hopefully this isn't used too widely in your projects, as this can be quite a painful one.
+
+Firstly, as part of the `Build Solution` step, you may have commented out any code which was showing that the previous methods used to get content via `XPATH` are no longer available.
+
+The second issue you may not notice at first, which is the `Multinode Tree Picker` - if you have any data types using this along with `XPATH`, it will no longer work and in fact the upgrade path would have removed the `XPATH` query data entirely. For this, you'll need to query the V13 database to find any `Multinode Tree Pickers` along with their configuration which you can then use to migrate the data type to use `Dynamic Root` instead.  Depending on how many you have, this could be quite time-consuming, you can do what I prefer, which is to compare the V13 and the V17 systems and adjust the `Multinode Tree Picker` to use the `Dynamic Root` then use uSync to check-in the changes into your repo, so when you deploy, the changes are persisted. Alternatively you can create custom migration scripts, to fix the issue automatically but this requires the previous configuration being available - so this may be easier to do BEFORE doing the V17 upgrade.
