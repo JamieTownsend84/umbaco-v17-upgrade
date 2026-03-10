@@ -1,5 +1,7 @@
 # Umbraco Forms - [Examples](./examples.md)
 
+[License changes](../Umbraco%20License%20Changes/)
+
 From my experience the upgrade of Umbraco forms from 13 to 17 is relatively pain free, depending of course on how much you have extended it. That said, most customisation previously was done using C# and that is still the same in most cases, such as custom workflows, field types etc.
 
 But, and there is always a but with the new backoffice :)
