@@ -1,4 +1,4 @@
-## XPATH
+## XPATH - [Examples](./examples.md)
 
 We've known about the removal of `XPATH` for a while now, so hopefully this isn't used too widely in your projects, as this can be quite a painful one.
 

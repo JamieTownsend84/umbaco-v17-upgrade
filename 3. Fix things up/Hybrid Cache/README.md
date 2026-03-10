@@ -1,4 +1,4 @@
-## Hybrid Cache
+## Hybrid Cache - [Examples](./examples.md)
 
 Introduced originally in Umbraco 15, depending on how much content your project has and depending on how you are querying this content, you may notice a few broken methods. 
 

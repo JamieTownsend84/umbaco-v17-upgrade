@@ -1,4 +1,4 @@
-## Umbraco Flavored Markdown
+## Umbraco Flavored Markdown - [Examples](./examples.md)
 
 With the removal of AngularJS, any advanced labels you have configured; such as those in Blocks and Collection Views will now be broken - the fix is to update the syntax of the labels to UFM. I've included some examples and links to the documentation and to a blog post by Joe Glombek which is really useful.
 

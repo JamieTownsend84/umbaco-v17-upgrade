@@ -1,4 +1,4 @@
-## Newtonsoft.Json
+## Newtonsoft.Json - [Examples](./examples.md)
 
 It has been migrated to `System.Text.Json` and is one of the changes I incorrectly assumed wasn't too much of a big deal. To quote the documentation:
 
