@@ -1,7 +1,10 @@
 # A Developer's Guide
 
+<img src="./profile-pic-round.png" width="150" align="left" style="padding-right:20px">
+
 ### Jamie Townsend
 Principal Full-Stack Engineer \
+**Umbraco Certified Master** \
 jamie.townsend@shoutdigital.com
 
 ---
