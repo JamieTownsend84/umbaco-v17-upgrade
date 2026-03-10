@@ -1,0 +1,16 @@
+{
+    "id": "Shout.UFM",
+    "name": "Shout UFM",
+    "version": "1.0.0",
+    "extensions": [
+        {
+            "name": "Shout UFM - Parse JSON Filter",
+            "alias": "shout.ufmfilter.parsejsonvalue",
+            "type": "ufmFilter",
+            "api": "/App_Plugins/ShoutUFM/js/parse-json.filter.js",
+            "meta": {
+                "alias": "parseJsonValue"
+            }
+        }
+    ]
+}
