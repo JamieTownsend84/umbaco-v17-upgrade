@@ -1,8 +1,8 @@
 # Let's fix things up
 
-<table width="100%">
+<table style="width:100%" width="100%">
   <tr>
-  <td width="50%">
+  <td style="width:50%" width="50%">
 
   ## Hybrid Cache
   ### [Notes](./Hybrid%20Cache/)
