@@ -2,8 +2,8 @@
 
 ## Hybrid Cache
 
-[Notes](./hybrid%20cache/) \
-[Examples](./hybrid%20cache/examples.md)
+[Notes](./Hybrid%20Cache/) \
+[Examples](./Hybrid%20Cache/examples.md)
 
 ## XPATH
 
