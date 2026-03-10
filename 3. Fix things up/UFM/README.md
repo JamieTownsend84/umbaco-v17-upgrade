@@ -4,5 +4,5 @@ With the removal of AngularJS, any advanced labels you have configured; such as 
 
 We had lot's of instances of advanced labels, so I've also included a SQL Script you can run on your database to aid you in finding them all. 
 
-https://docs.umbraco.com/umbraco-cms/reference/umbraco-flavored-markdown
+https://docs.umbraco.com/umbraco-cms/reference/umbraco-flavored-markdown \
 https://24days.in/umbraco-cms/2025/template-for-success/
