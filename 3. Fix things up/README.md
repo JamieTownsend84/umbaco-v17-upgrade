@@ -1,36 +1,13 @@
 # Let's fix things up
 
-<table style="width:100%" width="100%">
-  <tr>
-  <td style="width:50%" width="50%">
+## [Hybrid Cache](./Hybrid%20Cache/)
+## [XPATH](./XPATH/)
+## [Newtonsoft.Json](./Newtonsoft%20Json/)
+## [Umbraco Flavored Markdown](./UFM/)
+## [Macros](./Macros/)
+## [Umbraco Packages & Extensions](./Packages%20and%20Extensions/)
 
-  ## Hybrid Cache
-  ### [Notes](./Hybrid%20Cache/)
-  ### [Examples](./Hybrid%20Cache/examples.md)
-
-  ## XPATH
-  ### [Notes](./XPATH/)
-  ### [Examples](./XPATH/examples.md)
-
-  ## Newtonsoft.Json
-  ### [Notes](./Newtonsoft%20Json/)
-  ### [Examples](./Newtonsoft%20Json/examples.md)
-
-  </td>
-  <td>
-
-  ## Umbraco Flavored Markdown
-  ### [Notes](./UFM/)
-  ### [Examples](./UFM/examples.md)
-
-  ## Macros
-  ### [Notes](./Macros/)
-  ### [Examples](./Macros/examples.md)
-
-  ## Umbraco Packages & Extensions
-  ### [Notes](./Packages%20and%20Extensions/)
-  ### [Examples](./Packages%20and%20Extensions/examples.md)
-
-  </td>
-  </tr>
-</table>
+## [Deprecated Property Editors](./Deprecated%20Property%20Editors/)
+## [Umbraco API Controllers](./API%20Controllers/)
+## [Umbraco Forms](./Umbraco%20Forms/)
+## [Umbraco License Changes](./Umbraco%20License%20Changes/)
