@@ -1,4 +1,4 @@
-# A Developer's Guide - Upgrading Umbraco 13 to 17​
+# A Developer's Guide - Upgrading Umbraco 13 to 17
 
 <img src="./profile-pic-round.png" width="150" align="left" style="padding-right:20px">
 

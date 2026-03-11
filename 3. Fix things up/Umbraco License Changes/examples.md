@@ -1,4 +1,4 @@
-## Umbaco License Changes
+## Umbraco Licence Changes
 
 ```json
 {
@@ -20,7 +20,7 @@
 
 ### Umbraco Cloud
 
-If you're using Umbraco Cloud then some licenses are included, but in my experience you still needed to configure them with a special keyword `UMBRACO-CLOUD` - see below:
+If you're using Umbraco Cloud then some licences are included, but in my experience you still needed to configure them with a special keyword `UMBRACO-CLOUD` - see below:
 
 ```json
 {

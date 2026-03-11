@@ -9,7 +9,7 @@ IsConverter(IPublishedPropertyType propertyType)
     =>  propertyType.EditorAlias.Equals("Shout.Modifiers");
  ```
 
- Depending on how the type is setup, you may need to check against `EditorUiAlias` instead.
+ Depending on how the type is set up, you may need to check against `EditorUiAlias` instead.
 
   ```csharp
 IsConverter(IPublishedPropertyType propertyType) 

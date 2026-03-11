@@ -25,14 +25,14 @@ Or, shorthand you can do
 {=title} 
 ```
 
-The `umbValue` part is called a `UFM Component`, there are a few that are included OOTB such as
+The `umbValue` part is called a `UFM Component`. There are a few included out of the box:
 
 | Component    | Use |
 | -------- | ------- |
 | umbValue  | Renders the value of a property    |
 | umbContentName | Renders the name(s) of the picked content, comma separated     |
 | umbLink    | Renders the title of a picked link   |
-| umbLocalize    | Renders a localized dictionary string    |
+| umbLocalize    | Renders a localised dictionary string    |
 
 ### More Examples
 
