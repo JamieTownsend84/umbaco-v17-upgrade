@@ -21,7 +21,7 @@ There is now a new section in Umbraco which allows you to view all `extensions` 
 
 ![alt text](insights-image.png)
 
-## Full Example
+## [Full Example](./FullExample/SettingsController.cs)
 
 I have created a complete end-to-end example which may be useful, that covers quite a lot in such a small package.
 - Defines a package with a manifest
