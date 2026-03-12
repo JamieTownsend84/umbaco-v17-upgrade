@@ -13,7 +13,7 @@ With Umbraco 17 now the current Long-Term Support release, many organisations ar
 
 ---
 
-## [0. Slides](./0.%20Slides/)
+## [0. Slides](./0.%20Slides/Umbraco%20Newcastle%20Meetup%20-%20Jamie.pptx)
 ## [1. Getting Started](./1.%20Getting%20Started/)
 ## [2. Build Solution](./2.%20Build%20Solution/)
 ## [3. Fix things up](./3.%20Fix%20things%20up/)

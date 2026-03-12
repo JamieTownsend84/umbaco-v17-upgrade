@@ -2,7 +2,7 @@
 
 ### What's changed
 
-Quite a lot! Enough for its own talk, but I have gone through quite a bit and have included examples which you may find useful. Everything I've talked about so far could be in one-way or another related to your Umbraco Packages / Extensions plus much more.
+Quite a lot! Enough for its own talk, but I have gone through quite a bit and have included some examples which you may find useful. Everything I've talked about could be in one-way or another related to your Umbraco Packages / Extensions plus much more.
 Where most extensions could be done via C# previously - the vast amount now require client-side Web Components, the learning curve is quite steep in this sense, but you soon get used to it.
 I recommend running the V13 site side-by-side so you can compare, then work through one issue at a time, most likely you'll start with registering the package/extension via a manifest file.
 
@@ -17,7 +17,7 @@ One manifest file can be used to define one-to-many extensions, a full list of a
 
 ### Validate extensions
 
-There is now a new section in Umbraco which allows you to view all `extensions` which are registered, which is useful if you're not sure if the extension is registered or if you're not sure what `extension` to use, you can look at the OOTB extensions for comparison. 
+There is now a new section in Umbraco which allows you to view all `extensions` which are registered, which is useful if you're not sure if the extension is registered or if you're not sure what `extension` to use, you can look at the OOTB extensions from Umbraco for comparison. 
 
 ![insights](insights-image.png)
 

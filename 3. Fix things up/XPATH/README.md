@@ -1,6 +1,6 @@
 ## XPATH - [Examples](./examples.md)
 
-We've known about the removal of `XPATH` for a while now, so hopefully it is not used too widely in your projects, as it can be quite a painful change.
+We've known about the removal of `XPATH` for a while now, so hopefully it is not too widely used in your projects, as it can be quite a painful change.
 
 Firstly, as part of the `Build Solution` step, you may have commented out any code which was showing that the previous methods used to get content via `XPATH` are no longer available.
 

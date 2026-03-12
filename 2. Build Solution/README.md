@@ -1,6 +1,6 @@
 # Build Solution - [Examples](./examples.md)
 
-Now we have a plan, I recommend next getting the project building. There will most likely be lots of build errors. I personally go through and fix any easy ones and any others I comment out with TODO: to come back to. This essentially allows you to work on specific pieces of code, side by side with the V13 branch and ensure any new code you introduce works as expected.
+Now we have a plan, I recommend your next step to be getting the project building. There will most likely be lots of build errors. I personally go through and fix any easy ones and any others I comment out with TODO: to come back to. This essentially allows you to work on specific pieces of code, side by side with the V13 branch and ensure any new code you introduce works as expected.
 
 ## Update packages
 
@@ -8,14 +8,14 @@ As part of the getting started, update the packages to versions compatible with 
 
 ### Razor runtime compilation
 
-One noted potential breaking change is the removal of `Razor runtime compilation` and the Models Builder mode `InMemoryAuto` moved to its own NuGet package. If you use or want to use either of these features you need to install this package `Umbraco.Cms.DevelopmentMode.Backoffice`
+One noted potential breaking change is the removal of `Razor runtime compilation` and the Models Builder mode `InMemoryAuto` have moved to their own NuGet package. If you use or want to use either of these features you need to install this package `Umbraco.Cms.DevelopmentMode.Backoffice`
 https://www.nuget.org/packages/Umbraco.Cms.DevelopmentMode.Backoffice/
 
-However, it is recommended not to use Razor runtime compilation as Microsoft have marked this as **Obsolete**.  This was also holding Umbraco back implementing `hot-reload` which is now included out of the box.
+However, it is recommended not to use Razor runtime compilation as Microsoft have marked this as **Obsolete**.  This was also holding Umbraco to work with `hot-reload` which should now work out of the box with V17.
 
 ### Smidge
 
-Smidge is now **not** included in the core. If you want to continue the use of this, you'll need to install this package and configure.
+Smidge is now **not** included in the core. If you want to continue to use this you'll need to install this package and configure.
 https://marketplace.umbraco.com/package/umbraco.community.smidge
 
 ### TinyMCE
@@ -30,3 +30,6 @@ https://github.com/ProWorksCorporation/TinyMCE-Umbraco
 For those interested in more information on the TinyMCE licence change, see the following thread:
 https://github.com/tinymce/tinymce/issues/9453
 
+## Delete 'bin' and 'obj' directories
+
+Some people have reported issues with the 'Clean Solution' not being enough. It is therefore recommended to delete all of these folders in all projects prior to running the upgrade.
