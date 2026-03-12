@@ -19,7 +19,7 @@ One manifest file can be used to define one-to-many extensions, a full list of a
 
 There is now a new section in Umbraco which allows you to view all `extensions` which are registered, which is useful if you're not sure if the extension is registered or if you're not sure what `extension` to use, you can look at the OOTB extensions for comparison. 
 
-![alt text](insights-image.png)
+![insights](insights-image.png)
 
 ## [Full Example](./FullExample/SettingsController.cs)
 
